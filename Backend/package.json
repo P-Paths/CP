@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2",
-    "node-quickbooks": "^2.0.45"
+    "node-quickbooks": "^2.0.45",
+    "openid-client": "^6.1.7"
   },
   "description": ""
 }
