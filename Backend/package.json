@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.3",
     "express": "^4.21.2",
     "node-quickbooks": "^2.0.45",
     "openid-client": "^6.1.7"
